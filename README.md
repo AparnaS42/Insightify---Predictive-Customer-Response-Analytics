@@ -1,10 +1,10 @@
-# 📊 Insightify: Predictive Customer Response Analytics
+# Insightify: Predictive Customer Response Analytics
 
 **Insightify** is a machine learning-driven analytics project designed to help businesses optimize their marketing strategies by predicting customer responsiveness to campaigns. By combining exploratory data analysis, segmentation, and predictive modeling, Insightify enables targeted and cost-effective decision-making.
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 
 Businesses often struggle to convert marketing reach into customer action due to generic campaigns. This project aims to:
 - Analyze customer behavior and campaign response trends.
@@ -14,7 +14,7 @@ Businesses often struggle to convert marketing reach into customer action due to
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **Python** (pandas, matplotlib, seaborn, scikit-learn)
 - **Machine Learning**: Logistic Regression, Random Forest, XGBoost
@@ -24,7 +24,7 @@ Businesses often struggle to convert marketing reach into customer action due to
 
 ---
 
-## 🔧 Key Features
+## Key Features
 
 - **EDA**: Explored customer demographics, behavior, and campaign history to identify trends and anomalies.
 - **Segmentation**: Grouped customers using behavioral and demographic attributes.
@@ -34,7 +34,7 @@ Businesses often struggle to convert marketing reach into customer action due to
 
 ---
 
-## 📈 Results
+## Results
 
 - Achieved high accuracy and precision in predicting responders.
 - Identified key behavioral traits that influence campaign success.
@@ -42,7 +42,7 @@ Businesses often struggle to convert marketing reach into customer action due to
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 - Integrate with a dashboarding tool (e.g., Streamlit) for real-time scoring.
 - Expand to multi-channel campaign data.
@@ -50,7 +50,7 @@ Businesses often struggle to convert marketing reach into customer action due to
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 This project was independently developed for data analytics practice. Feel free to fork or open an issue for improvements or suggestions.
 
